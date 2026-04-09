@@ -14,5 +14,5 @@ Ce dépôt regroupe les travaux du **CC2** portant sur l'analyse de données mas
 
 ### Fichiers clés
 - **Scripts :** `tags_per_movie.py`, `tags_per_user.py`, `count_by_tag.py`, `tags_per_movie_and_user.py`.
-- **Rapport :** Le détail des commandes et analyses est disponible dans le fichier **[SON_TABOADA_CC2.md](./SON_TABOADA_CC2.md)**.
+- **Rapport :** Le détail des commandes et analyses est disponible dans le fichier **[SON_TABOADA_CC2.md](./SON_TABOADA.md)**.
 - **Résultats :** Fichiers `.txt` contenant les sorties des jobs Hadoop.
