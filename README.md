@@ -1,4 +1,4 @@
-# TP MapReduce - Dataset MovieLens 25M
+# TP EXAMEN CC2
 
 Ce dépôt regroupe les travaux du **CC2** portant sur l'analyse de données massives avec **Hadoop MapReduce**.
 
